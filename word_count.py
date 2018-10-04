@@ -27,7 +27,7 @@ words = 0
 chars = 0
 
 for line in fh:
-	
+	line += 1
 
 #-------------------------------------------------------------------------------
 # our code for analyzing the data
